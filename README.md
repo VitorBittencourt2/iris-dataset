@@ -7,3 +7,5 @@ No meu último projeto de aprendizado, desenvolvi uma análise completa do datas
 
 
 Esse clássico dataset nos permite trabalhar com classificação de espécies de flores, e usei o Random Forest e a Regressão Logística para comparar o desempenho dos modelos, analisando métricas como acurácia, F1-score e matriz de confusão.
+
+O arquivo está logo acima, fique avontade !
